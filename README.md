@@ -62,8 +62,8 @@ Phishing remains one of the most prevalent cyber threats worldwide. It targets i
 
 1. Clone the Repository:
     ```bash
-    git clone https://github.com/your-username/phishing-threat-intel-system.git
-    cd phishing-threat-intel-system
+    git clone http://github.com/Dare-Devil02/ubiquitous-train
+    cd ubiquitous-train
     ```
 
 2. Create and Activate a Virtual Environment:
